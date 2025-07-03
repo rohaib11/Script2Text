@@ -200,7 +200,7 @@ Tesseract supports multiple languages. To use languages other than English, you 
 
 1. **Select Language**:
    - Choose the language in which the text is written to improve OCR accuracy.
-   - 
+
 2. **Upload Image**:
    - Use the "Drag & Drop" area to upload an image containing handwritten text.
 
