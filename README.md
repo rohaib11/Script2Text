@@ -11,7 +11,23 @@
 - **Text Export**: Export the recognized text to various formats like TXT, Markdown, or PDF.
 - **History**: View a history of previously processed OCR documents.
 - **Dark Mode**: Toggle between light and dark themes for better accessibility.
+## Table of Contents
 
+1. [Features](#features)
+2. [Demo](#demo)
+3. [Tech Stack](#tech-stack)
+4. [Installation](#installation)
+   - [Frontend (React)](#frontend-react)
+   - [Backend (Flask)](#backend-flask)
+5. [Steps to Set the Path for Tesseract](#steps-to-set-the-path-for-tesseract)
+6. [Steps to Download and Install Language Files for Tesseract](#steps-to-download-and-install-language-files-for-tesseract)
+7. [Usage](#usage)
+   - [Frontend](#frontend)
+   - [Backend](#backend)
+8. [Contributing](#contributing)
+9. [License](#license)
+10. [Acknowledgements](#acknowledgements)
+11. 
 ## Demo
 
 You can check out the live demo [here](#). (Replace with your actual demo URL if you have one.)
