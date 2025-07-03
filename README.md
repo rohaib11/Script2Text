@@ -153,7 +153,7 @@ Tesseract supports multiple languages. To use languages other than English, you 
 2. **Copy the Language Files**:
    - After downloading the language files, copy them to the `tessdata` folder of your Tesseract installation. By default, the `tessdata` folder is located in:
      ```
-     C:\Program Files\Tesseract-OCR	essdata
+     C:\Program Files\Tesseract-OCR/tessdata
      ```
 
    - **Note**: If the `tessdata` folder doesn’t exist, you can create it manually within the `Tesseract-OCR` directory.
