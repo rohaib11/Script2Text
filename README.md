@@ -109,7 +109,8 @@ To use **Tesseract OCR** in this project, you need to install **Tesseract OCR** 
    - Install Tesseract by following the installation instructions.
    - During installation, **note the installation directory**. The default directory is usually:
      ```
-     C:\Program Files\Tesseract-OCR     ```
+     C:\Program Files\Tesseract-OCR
+        ```
 
 2. **Set the Tesseract Path**:
    - After installation, you need to tell the backend (Flask app) where Tesseract is installed. In the backend code (`app.py`), set the path to the Tesseract executable:
