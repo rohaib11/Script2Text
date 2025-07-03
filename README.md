@@ -75,7 +75,7 @@ You can check out the live demo [here](#). (Replace with your actual demo URL if
    - On Windows:
 
      ```bash
-     \venv\Scripts\activate
+     .\venv\Scripts\activate
      ```
 
    - On macOS/Linux:
