@@ -23,7 +23,7 @@ const ResultEditor = () => {
   useEffect(() => {
     setEditedText(result);
     setIsSaved(false);
-  }, [result]);
+  }, [result, editedText]);  // Add 'editedText' here to ensure proper dependency tracking
 
   useEffect(() => {
     initSocket((data) => {
@@ -35,7 +35,7 @@ const ResultEditor = () => {
     return () => {
       // Cleanup socket listeners if needed
     };
-  }, []);
+  }, [editedText]);  // Add 'editedText' here as the socket data should update it when needed
 
   const handleTextChange = (e) => {
     const newText = e.target.value;

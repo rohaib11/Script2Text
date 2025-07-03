@@ -1,4 +1,4 @@
-import React, { useState, useCallback, useContext, useMemo } from 'react';
+import React, { useState, useCallback, useContext } from 'react';
 import { AppContext } from '../contexts/AppContext';
 import { uploadImage } from '../services/api';
 import { FiUpload } from 'react-icons/fi';
