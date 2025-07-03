@@ -27,7 +27,8 @@
 8. [Contributing](#contributing)
 9. [License](#license)
 10. [Acknowledgements](#acknowledgements)
-11. 
+
+
 ## Demo
 
 You can check out the live demo [here](#). (Replace with your actual demo URL if you have one.)
@@ -108,6 +109,9 @@ You can check out the live demo [here](#). (Replace with your actual demo URL if
 
 5. Run the Flask backend:
 
+## Go To Before Running backend 
+5. [Steps to Set the Path for Tesseract](#steps-to-set-the-path-for-tesseract)
+6. [Steps to Download and Install Language Files for Tesseract](#steps-to-download-and-install-language-files-for-tesseract)
    ```bash
    python app.py
    ```
