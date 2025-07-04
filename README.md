@@ -31,7 +31,11 @@
 
 ## Demo
 
-You can check out the live demo [here](#). (Replace with your actual demo URL if you have one.)
+![image](https://github.com/user-attachments/assets/36022c4b-1d54-45ad-bb4d-7d57d4ac5c76)
+
+## Demo Work
+![image](https://github.com/user-attachments/assets/b9c42df3-0b4a-43f3-b878-ab4067131981)
+
 
 ## Tech Stack
 
